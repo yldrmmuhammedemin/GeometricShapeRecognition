@@ -1,6 +1,6 @@
 # GeometricShapeRecognitionProject
 
-An application to detect shapes using OpenCV 
+An application to detect geometric shapes using OpenCV 
 
 ## Limitations
 
