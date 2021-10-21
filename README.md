@@ -5,10 +5,10 @@ An application to detect shapes using OpenCV
 ## Limitations
 
  - Implemented only for:
-   - triangle
-   - rectangle
-   - pentagon
-   - circle
+   - Triangle
+   - Rectangle
+   - Pentagon
+   - Circle
  
 ## Sample
 
