@@ -10,8 +10,6 @@ An application to detect shapes using OpenCV
    - pentagon
    - circle
  
- - Images should be filled with dark colors
- 
 ## Sample
 
 Code in work
